@@ -10,7 +10,7 @@ This tool is an upgrade of the htbExplorer, by s4vitar.You can check the full do
 ![api](https://user-images.githubusercontent.com/86801785/188472132-c77d6d71-2302-4cef-aa10-d1ab4e810bd8.JPG)
 
 
-***You need to insert your API code form hack the box (note: your API from hackthebox.com, not the API from the new website "app.hackthebox.com", if you introduce that API from the new web, the tool will not work :/***
+_You need to insert your API code form hack the box (note: your API from hackthebox.com, not the API from the new website "app.hackthebox.com", if you introduce that API from the new web, the tool will not work :/_
 
 
 ![place_for_API](https://user-images.githubusercontent.com/86801785/188473271-e7cf01f7-a4cb-4453-bdd8-4700233e6c05.jpg)
