@@ -17,7 +17,7 @@ _You need to insert your API code form hack the box (note: your API from hackthe
 
 # _New Features_
 
-*This upgrade includes a search tool, that you can use to search for Operating System, for difficulty and also search for specific vulnerabilities that machine have.*
+*This upgrade includes a search tool, that you can use to search for Operating System, for difficulty and also search for specific vulnerabilities the machines have.*
 ![searching](https://user-images.githubusercontent.com/86801785/188509028-5c70dd35-bd9b-44cf-924e-2892788dbd82.JPG)
 
 
