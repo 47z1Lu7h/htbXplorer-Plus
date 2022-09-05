@@ -18,13 +18,12 @@ _You need to insert your API code form hack the box (note: your API from hackthe
 # _New Features_
 
 *This upgrade includes a search tool, that you can use to search for Operating System, for difficulty and also search for specific vulnerabilities that machine have.*
-
-
-![search](https://user-images.githubusercontent.com/86801785/188472191-64395f97-9279-4d88-9312-7e768979c44b.jpg)
+![searching](https://user-images.githubusercontent.com/86801785/188509028-5c70dd35-bd9b-44cf-924e-2892788dbd82.JPG)
 
 
 _And a resume of the machine, with the vulnerabilities involved_
 ![resume](https://user-images.githubusercontent.com/86801785/188473032-39692e44-8141-4d2b-a1f9-decadc37577a.JPG)
+
 
 
 _This tool has lots or options... you may have a look at_ **https://github.com/s4vitar/htbExplorer.git !!!**
