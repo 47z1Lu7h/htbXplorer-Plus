@@ -1171,7 +1171,7 @@ if [ $explorer_mode ] && [ $API_TOKEN ]; then
     if [ "$(echo $explorer_mode)" == "all_machines" ]; then
         getAllMachines
     elif [ "$(echo $explorer_mode)" == "active_machines" ]; then
-        egetActiveMachines
+        getActiveMachines
     elif [ "$(echo $explorer_mode)" == "retired_machines" ]; then
         getRetiredMachines
     elif [ "$(echo $explorer_mode)" == "active_linux_machines" ]; then
