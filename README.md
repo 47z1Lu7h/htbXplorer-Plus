@@ -1,5 +1,5 @@
 # htbXplorer-Plus
-**htbXplorer is a terminal client made in bash, perfect to play in the platform hackthebox.com without enter in any web..** ***We like only conosole!!!!*** :D 
+**htbXplorer is a terminal client, made in bash, to play in the platform hackthebox.com without enter in any web..** ***We like only conosole!!!!*** :D 
 
 **Use:**      _sudo ./htbXplorer [ -option ] [ args ]_
 ![help_panel](https://user-images.githubusercontent.com/86801785/188474507-5dd13e3e-1d46-41da-beb7-ab7d15475845.JPG)
