@@ -942,7 +942,7 @@ function dependencies(){
 	if [ "$(echo $UID)" == "0" ]; then
 
 		tput civis
-		dependencies_array=(html2text jq)
+		dependencies_array=(html2text jq node-js-beautify batcat)
 
 		echo; for program in "${dependencies_array[@]}"; do
 			if [ ! "$(command -v $program)" ]; then
