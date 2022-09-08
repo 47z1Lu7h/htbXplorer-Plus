@@ -624,7 +624,7 @@ function searchMachineName(){
         cat bundle.js  | awk "/name: \"$s_machine_name\"/,/resuelta:/" | tr -d '"|,' | grep -vE "sku:|id:|resuelta" | sed 's/^ *//g' | sed 's/ - /\n ~~>  /g' | batcat -l java
         rm bundle.js
     else
-        echo -e "\n\t${redColour} [>>] ${endColour}${blueColour}The machine${endColour}${redColour} $s_machine_name${endClour}${blueColour} either is Active, or is not in the htbmachines.github.io database${endColour}\n"
+        echo -e "\n\t${redColour} [!] ${endColour}${blueColour}The machine${endColour}${redColour} $s_machine_name${endClour}${blueColour} either is Active, or is not in the htbmachines.github.io database${endColour}\n"
     fi
 
     if [ "$(cat searchMachineName | wc -l)" != "0" ]; then
